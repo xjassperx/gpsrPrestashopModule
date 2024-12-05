@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gpsrtabmodule</name>
+    <displayName>GPSR Tab Module</displayName>
+    <version>1.0.0</version>
+    <author>JasspeR Development</author>
+    <description>Dodaje zakładkę GPSR na stronie produktu.</description>
+    <tab>front_office_features</tab>
+    <confirmUninstall>Czy na pewno chcesz odinstalować ten moduł?</confirmUninstall>
+    <compatibility>
+        <minVersion>1.7</minVersion>
+        <maxVersion><![CDATA[_PS_VERSION_]]></maxVersion>
+    </compatibility>
+</module>
